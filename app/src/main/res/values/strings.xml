@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Phonebook</string>
+    <string name="text_fix">Fix</string>
+    <string name="text_delete">Delete</string>
+    <string name="text_save">Save</string>
+    <string name="text_cacel">Cancel</string>
+
+    <string name="text_name">Name: </string>
+    <string name="text_phonenumber">PhoneNumber: </string>
+
+</resources>

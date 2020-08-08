@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Danh bạ</string>
+    <string name="text_fix">Sửa</string>
+    <string name="text_delete">Xóa</string>
+    <string name="text_save">Lưu</string>
+    <string name="text_cacel">Thoát</string>
+
+    <string name="text_name">Tên: </string>
+    <string name="text_phonenumber">Sdt: </string>
+</resources>
